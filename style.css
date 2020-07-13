@@ -61,7 +61,7 @@ p {
 	letter-spacing: .1rem;
 	margin-top: 30px;
 	transition: .3s ease;
-	transition-property: background-color, color;
+	transition-property: background-color, #fff;
 }
 .cta:hover {
 	color: white;
